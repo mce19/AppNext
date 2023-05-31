@@ -6,7 +6,13 @@ const links = [{
   },{
     label: 'About',
     route: '/about'
-  }]
+  },
+  {
+    label: 'Post',
+    route: '/posts'
+  }
+
+]
   
 
 export default function NavigationPage(){
